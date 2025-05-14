@@ -4,8 +4,6 @@ jobs:
     os: linux
   - dist: xenial
     os: linux    
-  - osx_image: xcode14.2
-    os: osx
   - os: windows
 language: c
 compiler: gcc
